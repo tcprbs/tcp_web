@@ -1,4 +1,4 @@
 title = "Infrastructure Engineer's Experiences"
-baseurl = "https://nmap.host"
+baseurl = "https://nmap.host/"
 languageCode = "en-us"
 theme = "cactus"
